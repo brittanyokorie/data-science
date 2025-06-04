@@ -1,2 +1,2 @@
 # data-science
-this is for data science certification
+this is for data science certification.
